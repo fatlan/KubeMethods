@@ -6,6 +6,8 @@
 
 CT - [Container.Training](https://container.training) <br>
 
+Kubelabs - [An Ultimate Kubernetes Hands-on Labs](https://collabnix.github.io/kubelabs/) <br>
+
 Kubernetes Docs - [Getting startted for example all commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-) <br>
 
 Play with Kubernetes(non install) - [The Play with Kubernetes classroom is a new site provided by Docker that helps you get hands-on experience using Kubernetes](https://labs.play-with-k8s.com) <br>
