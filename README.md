@@ -31,3 +31,11 @@ Kubespray - [Deploy a Production Ready Kubernetes Cluster](https://github.com/ku
 kOps - [The easiest way to get a production grade Kubernetes cluster up and running](https://github.com/kubernetes/kops/) <br>
 
 Rancher RKE - [Rancher Kubernetes Engine, an extremely simple, lightning fast Kubernetes installer that works everywhere](https://github.com/rancher/rke) <br>
+
+vcluster - [Virtual Kubernetes Clusters that run inside regular namespaces](https://github.com/loft-sh/vcluster) <br>
+
+DevSpace - [The Fastest Developer Tool for Kubernetes](https://github.com/loft-sh/devspace) <br>
+
+kubedee - [Fast multi-node Kubernetes development and test clusters on LXD](https://github.com/schu/kubedee) <br>
+
+kURL - [Open Source Kubernetes Installer](https://github.com/replicatedhq/kURL) <br>
