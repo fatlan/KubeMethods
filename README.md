@@ -40,4 +40,4 @@ kubedee - [Fast multi-node Kubernetes development and test clusters on LXD](http
 
 kURL - [Open Source Kubernetes Installer](https://github.com/replicatedhq/kURL) <br>
 
-k3sup - [bootstrap Kubernetes with k3s over SSH < 1 min rocket](https://github.com/alexellis/k3sup) <br>
+k3sup - [Bootstrap Kubernetes with k3s over SSH < 1 min rocket](https://github.com/alexellis/k3sup) <br>
