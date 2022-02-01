@@ -45,3 +45,5 @@ k3sup - [Bootstrap Kubernetes with k3s over SSH < 1 min rocket](https://github.c
 K0s - [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s) <br>
 
 Typhoon - [Minimal and free Kubernetes distribution with Terraform](https://github.com/poseidon/typhoon) <br>
+
+kubicorn - [Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud](https://github.com/kubicorn/kubicorn) <br>
