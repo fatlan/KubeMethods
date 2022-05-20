@@ -49,3 +49,5 @@ Typhoon - [Minimal and free Kubernetes distribution with Terraform](https://gith
 kubicorn - [Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud](https://github.com/kubicorn/kubicorn) <br>
 
 Talos - [Talos is a modern OS for Kubernetes](https://github.com/talos-systems/talos) <br>
+
+k3s-ansible - [A fully automated HA k3s etcd install with kube-vip, MetalLB, and more](https://github.com/techno-tim/k3s-ansible) <br>
