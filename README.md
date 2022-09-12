@@ -51,3 +51,5 @@ kubicorn - [Create, manage, snapshot, and scale Kubernetes infrastructure in the
 Talos - [Talos is a modern OS for Kubernetes](https://github.com/talos-systems/talos) <br>
 
 k3s-ansible - [A fully automated HA k3s etcd install with kube-vip, MetalLB, and more](https://github.com/techno-tim/k3s-ansible) <br>
+
+KubeKey - [Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA](https://github.com/kubesphere/kubekey) <br>
